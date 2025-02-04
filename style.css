@@ -1,0 +1,23 @@
+
+  body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+      }
+      input {
+        padding: 5px;
+        width: 200px;
+      }
+      button {
+        padding: 5px 10px;
+        cursor: pointer;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      li {
+        background: lightgray;
+        padding: 5px;
+        margin: 5px;
+        cursor: pointer;
+      }
